@@ -1,4 +1,4 @@
-# My Discord Bot
+# Api Bot Base
 
 This is a Python Discord bot that interacts with an external API
 
